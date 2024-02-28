@@ -102,9 +102,9 @@ export const projectsData = [
   {
     title: "Togo20",
     description:
-      "Eine Yoga und Meditations App, die wir als Team mit React, MongoDB, Express und Node.js gebaut haben. Meine Aufgabe als Gitmaster und Backend Entwickler bestand darin, das Backend mit Anbindung anhand einer Restful API zu programmieren und die Datenbank in MongoDB zu modellieren.",
+      "تطبيق Togo20 قمت بإنشائه باستخدام React MongoDB Express Node.js. لتقديم خدمة كتابة الملاحظات 😊.",
     description_EN:
-      "A Togo20 app that i built with React, MongoDB, Express and Node.js. ",
+      "Togo20 application I built using React MongoDB Express Node.js. To provide a note writing service 😊 ",
     technologies: [
       { name: "Html", icon: htmlicon },
       { name: "CSS", icon: cssicon },
@@ -134,9 +134,9 @@ export const projectsData = [
   {
     title: "Virtual Store",
     description:
-      "Eine Möbel-Organizer App, die wir als Duo-Team mit React, MongoDB, Express und Node.js programmiert haben. Als Gitmaster habe ich die Verknüpfung des Frontends mit dem Backend und die Datenbankmodellierung übernommen. Die App ist responsive und mobile-optimiert.",
+      "يستخدم تطبيق المتجر الافتراضي React Js node js و css و localstorage. لعرض المنتجات في المطعم بشكل شهي 👌",
     description_EN:
-      "A virtual store app use Reactjs, nodejs,css and localstorage.",
+      "The virtual store app uses Reactjs, nodejs, css and localstorage. To display the products in the restaurant in a delicious way 👌",
     technologies: [
       { name: "Html", icon: htmlicon },
       { name: "CSS", icon: cssicon },
